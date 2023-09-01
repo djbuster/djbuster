@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @djbuster
-- 👀 I’m interested in ... Kubernetest, IaaC
+- 👀 I’m interested in ... Kubernetes, IaaC
 - 🌱 I’m currently learning ... Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
