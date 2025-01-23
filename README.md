@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @djbuster
 - 👀 I’m interested in ... Kubernetes, IaaC
-- 🌱 I’m currently learning ... Kubernetes
+- 🌱 I’m currently learning ... IAC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
